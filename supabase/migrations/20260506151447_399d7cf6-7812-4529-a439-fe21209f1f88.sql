@@ -1,0 +1,1 @@
+UPDATE public.pharmacy_medications SET status='Inactivo' WHERE status='Activo' AND (nuevo_codigo IS NULL OR trim(nuevo_codigo)='');

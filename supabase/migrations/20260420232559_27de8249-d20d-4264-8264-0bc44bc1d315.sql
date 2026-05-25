@@ -1,0 +1,2 @@
+ALTER TABLE public.pharmacy_medications ADD COLUMN IF NOT EXISTS bonificaciones BOOLEAN NOT NULL DEFAULT FALSE;
+CREATE INDEX IF NOT EXISTS idx_pharmacy_medications_bonificaciones ON public.pharmacy_medications(bonificaciones) WHERE bonificaciones = TRUE;

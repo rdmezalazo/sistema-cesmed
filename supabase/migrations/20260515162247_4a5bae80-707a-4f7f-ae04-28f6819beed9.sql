@@ -1,0 +1,1 @@
+UPDATE public.pharmacy_medications SET nuevo_codigo = NULL WHERE status = 'Inactivo' AND nuevo_codigo IS NOT NULL;

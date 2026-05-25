@@ -1,0 +1,1 @@
+ALTER TABLE public.pharmacy_inventory_movements ALTER COLUMN created_by SET DEFAULT auth.uid();
