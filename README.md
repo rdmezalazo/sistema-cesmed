@@ -4,6 +4,14 @@ Sistema integral de gestión clínica y administrativa desarrollado con tecnolog
 
 ---
 
+## 🌐 Demo en Producción
+
+El sistema se encuentra desplegado en Vercel:
+
+[https://sistema-cesmed-liyvo78uh-ronald-meza-s-projects.vercel.app/](https://sistema-cesmed-liyvo78uh-ronald-meza-s-projects.vercel.app/)
+
+---
+
 ## 🚀 Características Principales
 
 ### 🩺 Gestión Clínica
