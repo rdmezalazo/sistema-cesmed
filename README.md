@@ -234,7 +234,7 @@ Este proyecto es de uso privado y confidencial.
 **Ronald Meza Lazo**
 
 * GitHub: [https://github.com/rdmezalazo](https://github.com/rdmezalazo)
-* LinkedIn: [https://www.linkedin.com](https://www.linkedin.com)
+* LinkedIn: [https://www.linkedin.com](https://www.linkedin.com/in/ronald-meza-lazo-2791a155/)](https://www.linkedin.com)
 
 ---
 
